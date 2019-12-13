@@ -1,30 +1,30 @@
 @font-face {
   font-family: "sourcesanspro";
-  src: url("/dist/fonts/source_sans_pro/SourceSansPro-Regular.ttf")
+  src: url("../fonts/source_sans_pro/SourceSansPro-Regular.ttf")
 }
 
 @font-face {
   font-family: "sourcesanspro";
   font-weight: bold;
-  src: url("/dist/fonts/source_sans_pro/SourceSansPro-Bold.ttf")
+  src: url("../fonts/source_sans_pro/SourceSansPro-Bold.ttf")
 }
 
 @font-face {
   font-family: "sourcesanspro";
   font-weight: bold;
   font-style: italic;
-  src: url("/dist/fonts/source_sans_pro/SourceSansPro-BoldItalic.ttf")
+  src: url("../fonts/source_sans_pro/SourceSansPro-BoldItalic.ttf")
 }
 
 @font-face {
   font-family: "ptserif";
-  src: url("/dist/fonts/pt_serif/PT_Serif-Web-Regular.ttf")
+  src: url("../fonts/pt_serif/PTSerif-Regular.ttf")
 }
 
 @font-face {
   font-family: "ptserif";
   font-style: italic;
-  src: url("/dist/fonts/pt_serif/PT_Serif-Web-Italic.ttf")
+  src: url("../fonts/pt_serif/PTSerif-Italic.ttf")
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -82,12 +82,12 @@ i {
 }
 
 .half-width {
-  width: 50%;
+  width: 15%;
   margin: 0 auto
 }
 
 .double-image {
-  width: 80%;
+  width: 30%;
   margin: 0 auto
 }
 
@@ -110,7 +110,7 @@ p.header-credits {
 }
 
 hr {
-  margin: 50px auto
+  margin: 25px auto
 }
 
 .note {
@@ -130,7 +130,7 @@ html, body {
 
 #body {
   padding-top: 50px;
-  padding-bottom: 80px
+  padding-bottom: 30px
 }
 
 footer {
@@ -156,7 +156,7 @@ nav {
 
 nav img {
   height: 30px;
-  margin: 7px 20px 10px 0
+  margin: 9px 20px 10px 0
 }
 
 nav a.text {
@@ -190,7 +190,7 @@ header .text h1 {
 }
 
 #story {
-  padding: 20px 40px
+  padding: 20px 60px
 }
 
 #story p {
